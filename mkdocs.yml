@@ -9,12 +9,6 @@ nav:
   - Главная: index.md
   - ЛР1:
       - Отчёт: lr1/report.md
-  - ЛР2:
-      - Отчёт: lr2/report.md
-  - ЛР3:
-      - Отчёт: lr3/report.md
-  - ЛР4:
-      - Отчёт: lr4/report.md
 
 markdown_extensions:
   - admonition
